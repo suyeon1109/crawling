@@ -20,3 +20,5 @@ pyautogui.doubleClick()
 pyautogui.moveTo(298,101,2)
 pyautogui.click(button='left')
 pyautogui.write("dkssud sksms tndusdldi")
+
+#command shift c => chrome 개발자 모드
